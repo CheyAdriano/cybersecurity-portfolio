@@ -14,4 +14,4 @@ My goal is to become a cybersecurity analyst and help organizations identify sec
 
 ## Projects
 
-Projects will be added as I progress through my cybersecurity training.
+- [Professional Statement](professional-statement/README.md)
